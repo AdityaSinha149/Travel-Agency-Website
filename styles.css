@@ -108,19 +108,3 @@ body {
 footer p {
   font-size: 0.9rem;
 }
-
-body.destinations {
-  background: linear-gradient(to bottom, #ffeb3b, #ffc107);
-}
-
-body.packages {
-  background: linear-gradient(to bottom, #ffccbc, #ffab91);
-}
-
-body.blog {
-  background: linear-gradient(to bottom, #e1bee7, #ce93d8);
-}
-
-body.contact {
-  background: linear-gradient(to bottom, #c8e6c9, #a5d6a7);
-}
